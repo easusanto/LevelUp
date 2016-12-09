@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Level 4</key>
+	<dict>
+		<key>Vault</key>
+		<dict>
+			<key>front handspring</key>
+			<array>
+				<string>front-handspring-vault.jpg</string>
+				<string>A front handspring on vault is an incredibly important gymnastics skill because some gymansts perform it from level 4 all the way through level 8. While the deductions get stricter as a gymnast progresses through the levels, the skill remains the same. It’s also the basis of some more advanced vaults.  So it’s in your best interest to learn how to do a front handspring on vault, and master it early.</string>
+			</array>
+		</dict>
+		<key>Bars</key>
+		<dict>
+			<key>straddle or pike glide kip</key>
+			<array>
+				<string>kip-bars.jpg</string>
+				<string>A kip is an important skill in gymnastics. Not only do you need it for the level 4 gymnastics routine, but many gymnasts also use a kip as their mount at more advanced optional levels. A kip is a hard skill to learn because it requires a lot of upper-body strength, and the motion is unlike previous skills a gymnast has learned.</string>
+			</array>
+			<key>cast to horizontal</key>
+			<array>
+				<string>horizontal-cast.jpg</string>
+				<string>Horizontal cast is a cast that reaches 90 degrees on the bars.</string>
+			</array>
+			<key>squat on</key>
+			<array>
+				<string>squat-on.jpg</string>
+				<string>Start with doing a cast and then tuck feet in to land on the bar.</string>
+			</array>
+			<key>long hang kip</key>
+			<array>
+				<string>long-hang-kip.jpg</string>
+				<string>Different than a straddle or pike glide kip, this long hang kip is usually done on the higher bar.</string>
+			</array>
+			<key>back hip circle</key>
+			<array>
+				<string>back-hip-circle.jpg</string>
+				<string>Back hip circle is when you start off with a cast and then throw your body backwards around the bar to form a 360 degree motion around the bar.</string>
+			</array>
+		</dict>
+		<key>Beam</key>
+		<dict>
+			<key>cartwheel</key>
+			<array>
+				<string>cartwheel-beam.jpg</string>
+				<string>Starting off with your dominant foot in front, kick back leg as you put down your dominant hand down and simultaneously kick legs over hands and land with the non-dominant foot on the ground.</string>
+			</array>
+			<key>split leap to 120 degrees</key>
+			<array>
+				<string>split-leap-beam.jpg</string>
+				<string>Leap forward with dominant foot and simultaneously kick back other leg to make 120 degrees.</string>
+			</array>
+			<key>handstand</key>
+			<array>
+				<string>handstand-beam.jpg</string>
+				<string>Forward handstand constitutes of placing thumbs together and palms on the beam and kicking up until legs and arms reach one line.</string>
+			</array>
+			<key>split jump to 120 degrees</key>
+			<array>
+				<string>split-jump-beam.jpg</string>
+				<string>Split jump requires your two legs to split horizontally while jumping and reaching 120 degrees.</string>
+			</array>
+			<key>cartwheel to side handstand, 1/4 turn dismount</key>
+			<array>
+				<string>cartwheel-to-side-handstand-beam.jpg</string>
+				<string>This is the required dismount for the level 4 beam routine. Cartwheel to a side handstand and a 1/4 turn dismount.</string>
+			</array>
+		</dict>
+		<key>Floor</key>
+		<dict>
+			<key>straddle jump with 120 degree split</key>
+			<array>
+				<string>stradde-jump-floor.jpg</string>
+			</array>
+			<key>front handspring to two feet</key>
+			<array/>
+			<key>back extension roll</key>
+			<array/>
+			<key>back walkover</key>
+			<array/>
+			<key>round-off back-handspring 2x</key>
+			<array/>
+		</dict>
+	</dict>
+	<key>Level 5</key>
+	<dict>
+		<key>Vault</key>
+		<array/>
+	</dict>
+	<key>Level 6</key>
+	<dict/>
+	<key>Level 7</key>
+	<dict/>
+	<key>Level 8</key>
+	<dict/>
+	<key>Level 9</key>
+	<dict/>
+	<key>Level 10</key>
+	<dict/>
+</dict>
+</plist>

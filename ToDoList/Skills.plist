@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Handspring</key>
+	<array>
+		<string>YES</string>
+		<string>the gymnast runs towards the horse, jumps off of the springboard and puts her hands directly forward onto the horse. The postflight contains a variety of flips and twists. A common example used today is the cuervo vault, where the gymnast pushes off the horse, does a half twist and then a backward salto.</string>
+		<string>Low</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Vault</string>
+		<string>http://vignette1.wikia.nocookie.net/inthegym/images/1/18/Handspring.gif/revision/latest?cb=20160825201222</string>
+	</array>
+	<key>Tsukahara</key>
+	<array>
+		<string>NO</string>
+		<string>in this category, the gymnast jumps off the springboard and then does a ½ twist before pushing off the horse backwards. One Tsukahara vault that is common today is the Phelps, where the gymnast is supposed to do a ½ turn onto the horse, a ½ turn off and then a front layout.</string>
+		<string>Low</string>
+		<string>2016-12-02 at 21:00</string>
+		<string>Vault</string>
+		<string>http://vignette2.wikia.nocookie.net/inthegym/images/f/f5/Tsukahara.gif/revision/latest?cb=20160825201249</string>
+	</array>
+	<key>Yurchenko</key>
+	<array>
+		<string>NO</string>
+		<string> this contains all vaults with round-of entries. One example is the Yurchenko-double twist, where the gymnast does a round-off onto the springboard, a back handspring onto the horse, and a double twisting flip off of the horse.</string>
+		<string>Normal</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Vault</string>
+		<string>http://vignette3.wikia.nocookie.net/inthegym/images/6/6f/Yurchenko.gif/revision/latest?cb=20160825201311</string>
+	</array>
+	<key>Shushunova</key>
+	<array>
+		<string>NO</string>
+		<string>1½ twisting Yurchenko: Roundoff, back handspring entry; one and a half twisting layout. Abbreviated as 1.5Y.</string>
+		<string>High</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Vault</string>
+		<string>http://vignette2.wikia.nocookie.net/inthegym/images/0/07/Tucked_Yurchenko_with_1%C2%BD_twist.gif/revision/latest?cb=20130625121505</string>
+	</array>
+	<key>Double twisting Yurchenko</key>
+	<array>
+		<string>YES</string>
+		<string>Roundoff, backhandspring entry; double twisting layout. Abbreviated as DTY.</string>
+		<string>High</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Vault</string>
+		<string>http://vignette3.wikia.nocookie.net/inthegym/images/b/b5/Straight_Yurchenko_with_double_twist.gif/revision/latest?cb=20150115132429</string>
+	</array>
+	<key>Amanar/Shewfelt</key>
+	<array>
+		<string>YES</string>
+		<string> Roundoff, back handspring entry; two and a half twisting layout. (2½ twisting Yurchenko)</string>
+		<string>High</string>
+		<string>2016-11-30 at 16:00</string>
+		<string>Vault</string>
+		<string>http://vignette1.wikia.nocookie.net/inthegym/images/a/ab/Straight_Yurchenko_with_2%C2%BD_twist.gif/revision/latest?cb=20150827191127</string>
+	</array>
+	<key>Luconi</key>
+	<array>
+		<string>NO</string>
+		<string>Roundoff, back handspring with full turn entry; back tuck/pike/layout somersault</string>
+		<string>High</string>
+		<string>2017-01-16 at 22:00</string>
+		<string>Vault</string>
+		<string>http://vignette1.wikia.nocookie.net/inthegym/images/f/f0/Yurchenko_full_twist_on_tuck_back_salto_.gif/revision/latest?cb=20130730212815</string>
+	</array>
+	<key>Podkopayeva</key>
+	<array>
+		<string>NO</string>
+		<string>Roundoff, back handspring with half turn entry; front pike somersault with 1/2 twist</string>
+		<string>High</string>
+		<string>2016-11-26 at 19:30</string>
+		<string>Vault</string>
+		<string>http://vignette3.wikia.nocookie.net/inthegym/images/6/60/Yurchenko_half-on_front_pike_with_half_twist.gif/revision/latest?cb=20150115132503</string>
+	</array>
+	<key>Khorkina</key>
+	<array>
+		<string>NO</string>
+		<string>Roundoff, back handspring with half turn entry; front tuck somersault with 1½ twist</string>
+		<string>High</string>
+		<string>2017-01-04 at 10:30</string>
+		<string>Vault</string>
+		<string>http://vignette4.wikia.nocookie.net/inthegym/images/0/09/Yurchenko_half-on_front_tuck_salto_with_1%C2%BD_twist.gif/revision/latest?cb=20130115202442</string>
+	</array>
+	<key>Cheng Fei</key>
+	<array>
+		<string>YES</string>
+		<string>Roundoff, back handspring with half turn entry; front straight somersault with 1½ twist</string>
+		<string>High</string>
+		<string>2016-10-12 at 15:45</string>
+		<string>Vault</string>
+		<string>http://vignette3.wikia.nocookie.net/inthegym/images/9/94/Yurchenko_half-on_front_straight_salto_with_1%C2%BD_twist.gif/revision/latest?cb=20150115132600</string>
+	</array>
+	<key>Flyaway</key>
+	<array>
+		<string>YES</string>
+		<string>Tap swing release to land on back in a pit, resi-pit, or stacked mats. The gymnast should look at their toes during the flight. Tap swing release spotter catches the gymnast. (For larger gymnasts a spotting belt is the next best thing) Target position should be about 45 degrees above horizontal. Again the gymnast should look at their toes. Same as above drill but after brief pause the spotter turns the gymnast over to complete the flyaway. This pause can be gradually eliminated, then the spot can be gradually eliminated.</string>
+		<string>Low</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Bars</string>
+		<string>http://rs282.pbsrc.com/albums/kk271/Gymnastique08/Gymnastics/flyaway.gif~c200</string>
+	</array>
+	<key>Front Flyaway </key>
+	<array>
+		<string>NO</string>
+		<string>The key to this skill is getting a feel for the tap. It is essentially a reverse of a normal tap swing. The front swing position is an open body leading with the heels, as the gymnast passes through the bottom, they must hollow then kick their heels towards the ceiling. Work the tap without releasing the bar until you get a feel for it. The tendency is to tap early. Work the tap late. Once the tap is consistent, dismounting into a pit or with a belt to get the feel for the turnover is next. The gymnast should feel a significant block off the bar prior to release. This will aid in gaining amplitude and good direction for the dismount.</string>
+		<string>Low</string>
+		<string>2016-12-17 at 13:45</string>
+		<string>Bars</string>
+		<string>http://cdn.yourepeat.com/media/gif/001/505/871/0e80c183d14cced03ce5f41feee92b26.gif</string>
+	</array>
+	<key>Kip cast handstand</key>
+	<array>
+		<string>YES</string>
+		<string>The gymnasts kip should occur late enough so that the gymnast can reach support leaning forward with shrugged shoulders. The most common difficulty with this skill is an early kip which finishes in a vertical support.</string>
+		<string>Low</string>
+		<string>2016-11-21 at 19:15</string>
+		<string>Bars</string>
+		<string>http://vignette2.wikia.nocookie.net/inthegym/images/2/2f/Glide_kip_on_low_bar.gif/revision/latest?cb=20150115134104</string>
+	</array>
+	<key>Front Giant </key>
+	<array>
+		<string>NO</string>
+		<string>The first thing a gymnast needs to work a front giant is a cast handstand in undergrip. The tendency is to dump the shoulders forward and basically do a forward roll over the bar. Work cast handstand lower back to the bar with a spot A LOT! From the handstand the gymnast must think about extending as far from the bar as possible on the downward swing. The gymnast should stay fully extended until just before passing under the bar. As the swing begins to rise a pull down on the bar is initiated as the heels are driven upward.</string>
+		<string>Normal</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Bars</string>
+		<string>http://vignette2.wikia.nocookie.net/inthegym/images/0/02/Gf5es.gif/revision/latest?cb=20150115142038</string>
+	</array>
+	<key>Back Giant</key>
+	<array>
+		<string>NO</string>
+		<string>A lot of giants are not made because a gymnasts casts are sloppy. Work tight casts trying to finish the cast hollow with extended shoulders. A handstand is not necessary (though desired) to make good giants, but if the gymnast leads with their chest after the cast the giant will be difficult and executed improperly. Work handstand hollow fall to a mat on a floor bar. Set up a floor bar over an 8&quot; mat. Kick to handstand in an overgrip and fall to the mat. Body position should be hollow and extended. The gymnast should push be pushing away from the bar as much as possible, as this will enhance swing on the high bar. </string>
+		<string>Normal</string>
+		<string>2016-11-11 at 11:30</string>
+		<string>Bars</string>
+		<string>http://www.lboro.ac.uk/microsites/ssehs/biomechanics/images/giant.gif</string>
+	</array>
+	<key>Straddle Back</key>
+	<array>
+		<string>NO</string>
+		<string>The gymnast should understand how to stretch forward in the front swing to generate a strong rearward swing. For a timing exercise, work swings in which the gymnast straddles in the rearward swing, lifts their hips, and looks down to the low bar. The straddle should occur after the vertical phase of the swing. With a single rail a stack of mats with a wedge on the top can be used to simulate the low bar. On this setup work straddle back to straddle stand. The gymnast should be encouraged to land in a straddle stand and not a seated straddle position. Use either a bar pad, or sting mat draped on the bar and work straddle backs. Focus should be on lifting the hips on the rearward swing.
+
+</string>
+		<string>Normal</string>
+		<string>2017-01-15 at 10:00</string>
+		<string>Bars</string>
+		<string>http://cdn.yourepeat.com/media/gif/001/506/701/6144646e894a950c095befd9f6eb1ebe.gif</string>
+	</array>
+	<key>Gienger</key>
+	<array>
+		<string>NO</string>
+		<string>From regular grip, the gymnast swings backwards, releases the bar and does a ½ turn followed by a backward flip in pike position to catch facing the bar (the difference between a Gienger and a Deltchev is where the twist occurs - much like the difference between a barani and a cuervo on vault). Many gymnasts compete Giengers including Viktoria Karpenko (UKR), Andreea Raducan (ROM), Simona Amanar (ROM), Ludivine Furnon (FRA), Kristen Maloney (USA).</string>
+		<string>High</string>
+		<string>2017-04-21 at 15:00</string>
+		<string>Bars</string>
+		<string>https://66.media.tumblr.com/6e5303c664fafc56037744339463109e/tumblr_nid25g9lkr1u0rybdo1_400.gif</string>
+	</array>
+	<key>Jaeger</key>
+	<array>
+		<string>NO</string>
+		<string>From reverse or el-grip, the gymnast swings forwards, releases the bar and does a forward salto before catching the bar in regular grip; done piked (legs together), straddled (legs apart) or the most difficult, layed out (straight body). This is also one of the more common release elements being performed most of the Chinese and Spanish gymnasts as well as Allana Slater (AUS), Elena Zamolodchikova and Ekaterina Lobaznyuk.</string>
+		<string>High</string>
+		<string>2017-07-18 at 9:30</string>
+		<string>Bars</string>
+		<string>https://media.giphy.com/media/joeCR05mJ3I0o/giphy.gif</string>
+	</array>
+	<key>Tkatchev</key>
+	<array>
+		<string>NO</string>
+		<string>The gymnast swings backwards and releases the bar close to the top of the swing, then flies backwards over the bar in straddle or pike position to catch the bar on the other side. Also can be performed from a Stalder (Ricna), free-hip (aka Hindorff) or toe-on (like Elise Ray). This is the most popular release element besides the Jaeger and is being performed by many gymnasts. Most gymnasts do it in straddled position, but Elena Produnova does hers in piked position.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Bars</string>
+		<string>https://33.media.tumblr.com/dbbe32902e39483d536fadc7ca1fec05/tumblr_nwjb1x5PDN1rhv42go1_400.gif</string>
+	</array>
+	<key>Gurova</key>
+	<array>
+		<string>NO</string>
+		<string> with the board placed to the side of the beam, round-off onto the board, back handspring with a full twist to catch the beam in front support to back hip circle under the beam (also performed by Aleftina Prakhina and Elena Zamolodchikova - but only occasionally in the latter case. Like a Teza as a mount).</string>
+		<string>Normal</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>http://vignette3.wikia.nocookie.net/inthegym/images/f/f2/Gg1d2.gif/revision/latest?cb=20150116011454</string>
+	</array>
+	<key>Gainer</key>
+	<array>
+		<string>NO</string>
+		<string>instead of taking off for a back handspring or layout from two feet, the gymnast swings one foot along the side of the beam before taking off. Svetlana Khorkina is well known for her use of these elements.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>http://1.bp.blogspot.com/-SYbk-AZV-5A/VlLxQoI_CzI/AAAAAAAAFnk/oRKAVyyC4Kk/s400/uldjc.gif</string>
+	</array>
+	<key>Korbut</key>
+	<array>
+		<string>NO</string>
+		<string>Rome is a city and special comune (named Roma Capitale) in Italy. Rome is the capital of Italy and of the Lazio region. With 2.9 million residents in 1,285 km2 (496.1 sq mi), it is also the country&apos;s largest and most populated comune and fourth-most populous city in the European Union by population within city limits. The Metropolitan City of Rome has a population of 4.3 million residents. The city is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of Tiber river. The Vatican City is an independent country geographically located within the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states. [Wikipedia]</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>http://data.whicdn.com/images/57278955/large.gif</string>
+	</array>
+	<key>Planche</key>
+	<array>
+		<string>NO</string>
+		<string>aken from men&apos;s rings, this element requires the gymnast hold her body at a near-horizontal angle.
+
+aken from men&apos;s rings, this element requires the gymnast hold her body at a near-horizontal angle</string>
+		<string>High</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Beam</string>
+		<string>http://gifgifs.com/res/1115/5644fe4ad79d7400432454.gif</string>
+	</array>
+	<key>Omelianchik</key>
+	<array>
+		<string>NO</string>
+		<string>backhandspring with ¾ twists, landing in side handstand.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>http://media.tumblr.com/aa79958d200d2bb5b87d2cc98a6d2631/tumblr_inline_mrf7mhkKqm1qz4rgp.gif</string>
+	</array>
+	<key>Rulfova</key>
+	<array>
+		<string>NO</string>
+		<string>Korbut with a full twist - one of the most difficult elements done on beam today. To do a Rulfova, the gymnast dives backward and does a full twist before briefly supporting herself with her hands and then lowering down to straddle the beam. Many gymnasts use this skill today, because it is so valuable. Kristen Maloney (USA), Svetlana Khorkina (RUS), and Ling Jie (CHN) use Rulfovas.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>https://pbs.twimg.com/profile_images/1641833066/15___360____.gif</string>
+	</array>
+	<key>Tousek</key>
+	<array>
+		<string>NO</string>
+		<string>back-handspring in side position.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>http://rs265.pbsrc.com/albums/ii204/gymnstands2/Beam/bb_tousek.gif~c200</string>
+	</array>
+	<key>Yurchenko Loop</key>
+	<array>
+		<string>NO</string>
+		<string>this is like a side-ways Korbut. The gymnast stands facing outwards, then dives backwards to briefly support herself on the beam and lowers down to a front support, usually followed by a back hip circle. (Please note that this skill is not actually named after Yurchenko in the CoP). Yang Yun is one of the only gymnasts to do this element recently. Elvire Teza added a full twist to this move.
+
+</string>
+		<string>High</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Beam</string>
+		<string>http://vignette4.wikia.nocookie.net/inthegym/images/1/11/17thdx.gif/revision/latest?cb=20160729120431</string>
+	</array>
+	<key>The Humphrey</key>
+	<array>
+		<string>NO</string>
+		<string>The gymnast leaps up from the side and positions their body in the lunge position. The gymnast immediately spins three times following. This unique mounting skill was created by Terin Humphrey (USA).</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>http://25.media.tumblr.com/37efe51676ae4ada76097feec01883d4/tumblr_muzh20LmZo1r0m2gio2_500.gif</string>
+	</array>
+	<key>Miller</key>
+	<array>
+		<string>NO</string>
+		<string> A beam maneuver in which the gymnast does a back dive with a quarter twist to a handstand followed by a half pirouette. Invented by Shannon Miller (USA).</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Beam</string>
+		<string>https://s-media-cache-ak0.pinimg.com/originals/9a/b2/4c/9ab24caa5c76c2003038861fa4fad440.gif</string>
+	</array>
+	<key>Double full</key>
+	<array>
+		<string>NO</string>
+		<string>a backward salto with two twists.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Floor</string>
+		<string>http://faculty.fortlewis.edu/estler_r/heather/Images/smalldf.gif</string>
+	</array>
+	<key>Triple full</key>
+	<array>
+		<string>NO</string>
+		<string>a backward salto with three twists.</string>
+		<string>High</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Floor</string>
+		<string>http://67.media.tumblr.com/46995fef5a7a741fe839cfa36ed4003f/tumblr_o38t5lZe0p1sklz4fo1_1280.gif</string>
+	</array>
+	<key>Double back</key>
+	<array>
+		<string>NO</string>
+		<string>backwards double flipping salto. Can be used in the tuck, pike or layout positions. Andreea Raducan (ROM), Vanessa Atler (USA), and Simona Amanar (ROM) do double layouts.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Floor</string>
+		<string>http://cdn.yourepeat.com/media/gif/001/706/911/440fd784d68656acca40025d815b9b06.gif</string>
+	</array>
+	<key>Full-in</key>
+	<array>
+		<string>NO</string>
+		<string>double back salto with a full twist in the first flip. In a full-out, the gymnast does the full twist in the second salto.</string>
+		<string>High</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Floor</string>
+		<string>https://s-media-cache-ak0.pinimg.com/originals/f1/70/64/f1706483c995efb0c9b8dbec048d3cbd.gif</string>
+	</array>
+	<key>Double-double</key>
+	<array>
+		<string>NO</string>
+		<string>a double back salto with two twists. It is most commonly performed with one twist in each flip (full-in-full-out) but can also be done with both twists in the first or both in the last flip (double full-in or a double full-out). Elena Zamolodchikova (RUS) does a tuck full-in-full-out.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Floor</string>
+		<string>https://s-media-cache-ak0.pinimg.com/originals/22/3d/7a/223d7a6051aab8dfa7f3af6a29a43aee.gif</string>
+	</array>
+	<key>Double Layout</key>
+	<array>
+		<string>NO</string>
+		<string>a double back with straight legs and straight body.</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Floor</string>
+		<string>http://25.media.tumblr.com/a35de833cf43873b3b34e0c0e81cec31/tumblr_n396dfKFwz1rvmk3lo1_400.gif</string>
+	</array>
+	<key>Punch Front</key>
+	<array>
+		<string>NO</string>
+		<string>a front salto with take-off from two feet. Usually done out of other tumbling elements for bonus on floor. Can be done in tuck, pike, or layout position.</string>
+		<string>Low</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Floor</string>
+		<string>http://www.flashmavi.com/med_old/gif/gymnastics_floor_frontflip_stepout_learn_how_to_do_a_front_flip_step_out.gif</string>
+	</array>
+	<key>Round Off</key>
+	<array>
+		<string>NO</string>
+		<string>The roundoff is similar to a cartwheel except the gymnast lands with two feet placed together on the ground instead of one foot at a time, facing the direction they arrived from</string>
+		<string>Low</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Floor</string>
+		<string>https://en.wikipedia.org/wiki/Roundoff#/media/File:Gymnastics_0000.gif</string>
+	</array>
+	<key>Rudi</key>
+	<array>
+		<string>NO</string>
+		<string>forward salto with 1 ½ twists</string>
+		<string>High</string>
+		<string>2017-06-17 at 20:30</string>
+		<string>Vault</string>
+		<string>http://flo-static-assets.s3.amazonaws.com/uploads/api/566c6a345b279.gif</string>
+	</array>
+	<key>Double front </key>
+	<array>
+		<string>NO</string>
+		<string>forwards double flipping salto. Elena Produnova (RUS) uses a double front. Can also be done with a ½ twist out as Lilia Podkopayeva (UKR) used to do. It is almost always done in the tucked position</string>
+		<string>High</string>
+		<string>2017-04-02 at 21:00</string>
+		<string>Floor</string>
+		<string>http://24.media.tumblr.com/79320ff528117ebad409d64e614787b4/tumblr_moy4qukc0n1qjls20o1_500.gif</string>
+	</array>
+</dict>
+</plist>

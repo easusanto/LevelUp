@@ -1,6 +1,6 @@
 //
 //  ToDoTableViewController.swift
-//  LevelUp
+//  ToDoList
 //
 //  Created by Estelle Susanto on 12/1/16.
 //  Copyright © 2016 Estelle Susanto. All rights reserved.
@@ -20,7 +20,7 @@ class ToDoTableViewController: UITableViewController {
     var toDoNames = [String]()
     
     // dataObjectToPass is the data object to pass to the downstream view controller
-    var dataObjectToPass: [String] = ["", "", "", "", "", "", ""]
+    var dataObjectToPass: [String] = ["", "", "", "", ""]
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -107,19 +107,6 @@ class ToDoTableViewController: UITableViewController {
                 print("Invalid Task Completed Selected")
             }
             
-            let toDoEvent: Int = controller.toDoEvent.selectedSegmentIndex
-            var taskEvent: String = ""
-
-
-            switch toDoEvent {
-            case 0: taskEvent = "Vault"
-            case 1: taskEvent = "Bars"
-            case 2: taskEvent = "Beam"
-            case 3: taskEvent = "Floor"
-            default:
-                print("Invalid Event Selected")
-            }
-            
             if (toDoTask == "" || toDoTaskDescription == "" || newToDoItemDateAndTime == "" || taskPriority == "" || taskCompleted == "") {
                 let alertController = UIAlertController(title: "Must Fill all Fields",
                                                         message: "All text fields must have input",
@@ -192,20 +179,7 @@ class ToDoTableViewController: UITableViewController {
                 print("Invalid Task Completed Selected")
             }
             
-            let toDoEvent: Int = controller.toDoEvent.selectedSegmentIndex
-            var taskEvent: String = ""
-
-            switch toDoEvent {
-            case 0: taskEvent = "Vault"
-            case 1: taskEvent = "Bars"
-            case 2: taskEvent = "Beam"
-            case 3: taskEvent = "Floor"
-            default:
-                print("Invalid Event Selected")
-            }
-            
-            
-            if (toDoTask == "" || toDoTaskDescription == "" || newToDoItemDateAndTime == "" || taskPriority == "" || taskCompleted == "" || taskEvent == "") {
+            if (toDoTask == "" || toDoTaskDescription == "" || newToDoItemDateAndTime == "" || taskPriority == "" || taskCompleted == "") {
                 let alertController = UIAlertController(title: "Must Fill all Fields",
                                                         message: "All text fields must have input",
                                                         preferredStyle: UIAlertControllerStyle.alert)
@@ -218,7 +192,7 @@ class ToDoTableViewController: UITableViewController {
                 
                 
             } else {
-                let updatedTask: [String] = [taskCompleted,toDoTaskDescription,taskPriority,newToDoItemDateAndTime, taskEvent]
+                let updatedTask: [String] = [taskCompleted,toDoTaskDescription,taskPriority,newToDoItemDateAndTime]
                 
                 applicationDelegate.dict_ToDoList.setValue(updatedTask, forKey: toDoTask)
                 
@@ -277,6 +251,7 @@ class ToDoTableViewController: UITableViewController {
         }
         cell.imageView!.image = UIImage(named: check)
         
+        
         let priorityLevel = toDoDataArray[2] as! String
         switch priorityLevel {
             case "High":
@@ -310,16 +285,11 @@ class ToDoTableViewController: UITableViewController {
         
         let toDoItemArray = dict_ToDoList[toDoItem] as! [String]
         
-        
         dataObjectToPass[0] = toDoItem
         dataObjectToPass[1] = toDoItemArray[1] as String
         dataObjectToPass[2] = toDoItemArray[3] as String
         dataObjectToPass[3] = toDoItemArray[2] as String
         dataObjectToPass[4] = toDoItemArray[0] as String
-        dataObjectToPass[5] = toDoItemArray[4] as String
-        dataObjectToPass[6] = toDoItemArray[5] as String
-        
-        
         
         performSegue(withIdentifier: "showToDoItem", sender: self)
     }
@@ -343,7 +313,6 @@ class ToDoTableViewController: UITableViewController {
         dataObjectToPass[2] = toDoItemArray[3] as String
         dataObjectToPass[3] = toDoItemArray[2] as String
         dataObjectToPass[4] = toDoItemArray[0] as String
-        dataObjectToPass[5] = toDoItemArray[4] as String
         
         performSegue(withIdentifier: "changeToDoItem", sender: self)
     }

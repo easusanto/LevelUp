@@ -21,7 +21,7 @@ class ToBeDoneTableViewController: UITableViewController {
     var toBeDoneTasks = [String]()
     
     // dataObjectToPass is the data object to pass to the downstream view controller
-    var dataObjectToPass: [String] = ["", "", "", "", "", "", ""]
+    var dataObjectToPass: [String] = ["", "", "", "", ""]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -123,8 +123,6 @@ class ToBeDoneTableViewController: UITableViewController {
         dataObjectToPass[2] = toDoItemArray[3] as String
         dataObjectToPass[3] = toDoItemArray[2] as String
         dataObjectToPass[4] = toDoItemArray[0] as String
-        dataObjectToPass[5] = toDoItemArray[4] as String
-        dataObjectToPass[6] = toDoItemArray[5] as String
         
         performSegue(withIdentifier: "showToDoItem", sender: self)
     }

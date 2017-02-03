@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  LevelUp
+//  ToDoList
 //
 //  Created by Estelle Susanto on 12/1/16.
 //  Copyright © 2016 Estelle Susanto. All rights reserved.
@@ -37,7 +37,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let documentDirectoryPath = paths[0] as String
         
         // Add the plist filename to the document directory path to obtain an absolute path to the plist filename
-        let plistFilePathInDocumentDirectory = documentDirectoryPath + "/Skills.plist"
+        let plistFilePathInDocumentDirectory = documentDirectoryPath + "/ToDoList.plist"
         
         /*
          NSMutableDictionary manages an *unordered* collection of mutable (modifiable) key-value pairs.
@@ -60,7 +60,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             // CountryCities.plist does not exist in the Document directory; Read it from the main bundle.
             
             // Obtain the file path to the plist file in the mainBundle (project folder)
-            let plistFilePathInMainBundle = Bundle.main.path(forResource: "Skills", ofType: "plist")
+            let plistFilePathInMainBundle = Bundle.main.path(forResource: "ToDoList", ofType: "plist")
             
             // Instantiate an NSMutableDictionary object and initialize it with the contents of the CountryCities.plist file.
             let dictionaryFromFileInMainBundle: NSMutableDictionary? = NSMutableDictionary(contentsOfFile: plistFilePathInMainBundle!)
@@ -85,10 +85,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let documentDirectoryPath = paths[0] as String
         
         // Add the plist filename to the document directory path to obtain an absolute path to the plist filename
-        //let plistFilePathInDocumentDirectory = documentDirectoryPath + "/Skills.plist"
+        let plistFilePathInDocumentDirectory = documentDirectoryPath + "/ToDoList.plist"
         
         // Write the NSMutableDictionary to the CountryCities.plist file in the Document directory
-        //dict_ToDoList.write(toFile: plistFilePathInDocumentDirectory, atomically: true)
+        dict_ToDoList.write(toFile: plistFilePathInDocumentDirectory, atomically: true)
         
         /*
          The flag "atomically" specifies whether the file should be written atomically or not.

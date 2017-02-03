@@ -17,7 +17,6 @@ class ChangeToDoItemViewController: UIViewController {
     @IBOutlet var toDoDueDateAndTime: UIDatePicker!
     @IBOutlet var toDoPriority: UISegmentedControl!
     @IBOutlet var toDoCompleted: UISegmentedControl!
-    @IBOutlet var toDoEvent: UISegmentedControl!
     
     
     
